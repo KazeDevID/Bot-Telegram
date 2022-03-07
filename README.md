@@ -31,7 +31,7 @@
 
 ### String Session 🖇
 `
-[![NothingStringGenBot](https://t.me/NothingStringGenBot)
+[NothingStringGenBot](https://t.me/NothingStringGenBot)
 
 <details>
 <summary><b>🔗 Deploy to Heroku</b></summary>
