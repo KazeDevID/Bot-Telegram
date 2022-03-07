@@ -29,9 +29,12 @@
     
 </details>
 
-### String Session 🖇
-`
+<details>
+<summary><b>🔗 Session String</b></summary>
+<br>
+
 [NothingStringGenBot](https://t.me/NothingStringGenBot)
+</details>
 
 <details>
 <summary><b>🔗 Deploy to Heroku</b></summary>
